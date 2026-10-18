@@ -1,0 +1,6 @@
+{
+  "name": "CampusSpace AI",
+  "description": "Find the Right Space. Make Every Room Count. A university datathon MVP for smart room discovery, conflict-free scheduling, and campus room demand analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
